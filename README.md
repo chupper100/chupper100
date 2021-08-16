@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://chupper100.github.io/blog">
-<img width="30px"src="https://image.flaticon.com/icons/png/512/3959/3959425.png" alt="My blog">
+<img width="30px"src="https://image.flaticon.com/icons/png/512/3959/3959420.png" alt="My blog">
 </a>
 
 
