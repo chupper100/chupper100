@@ -4,7 +4,7 @@
 
 [Github Organization](https://github.com/Chupper-Studio)
 
-- [x] #739
+[x] #739
 
 ## [Blogs](https://blogcuadat08.blogspot.com)
 <!-- BLOG-POST-LIST:START -->
