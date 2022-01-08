@@ -12,7 +12,7 @@
 - [Giới thiệu](https://blogcuadat08.blogspot.com/2021/09/ve-ban-than-chao-cac-ban-nhung-nguoi.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Stack Overflow Activity
+## [Stack Overflow Activity](https://stackoverflow.com/users/15875691)
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
