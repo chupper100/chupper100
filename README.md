@@ -14,6 +14,7 @@
 
 ## [Stack Overflow Activity](https://stackoverflow.com/users/15875691)
 <!-- STACKOVERFLOW:START -->
+- [How to get keys from multiple values?](https://stackoverflow.com/questions/68710915/how-to-get-keys-from-multiple-values)
 <!-- STACKOVERFLOW:END -->
 
 <!---
