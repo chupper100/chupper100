@@ -7,6 +7,10 @@
 ## [Blogs](https://blogcuadat08.blogspot.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Giới thiệu Freenom - Nền Tảng Cung Cấp Tên Miền Miễn Phí](https://blogcuadat08.blogspot.com/2021/11/freenom-nen-tang-cung-cap-ten-mien-mien.html)
+- [Bài Kiểm Tra Trình Độ Anh Ngữ EF SET](https://blogcuadat08.blogspot.com/2021/09/bai-kiem-tra-trinh-do-anh-ngu-ef-set.html)
+- [Giới thiệu ứng dụng Slowly](https://blogcuadat08.blogspot.com/2021/09/gioi-thieu-ung-dung-slowly.html)
+- [Giới thiệu](https://blogcuadat08.blogspot.com/2021/09/ve-ban-than-chao-cac-ban-nhung-nguoi.html)
 <!-- BLOG-POST-LIST:END -->
 
 
