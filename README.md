@@ -4,9 +4,8 @@
 
 [Github Organization](https://github.com/Chupper-Studio)
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+[x] #739
+
 
 ## [Blogs](https://blogcuadat08.blogspot.com)
 <!-- BLOG-POST-LIST:START -->
