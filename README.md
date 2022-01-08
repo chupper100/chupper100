@@ -4,7 +4,10 @@
 
 [Github Organization](https://github.com/Chupper-Studio)
 
+## [Blogs](https://blogcuadat08.blogspot.com)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
