@@ -14,6 +14,9 @@
 - [How to get keys from multiple values?](https://stackoverflow.com/questions/68710915/how-to-get-keys-from-multiple-values)
 <!-- STACKOVERFLOW:END -->
 
+## 
+<a href="https://stackoverflow.com/users/15875691/chup"><img src="https://stackoverflow.com/users/flair/15875691.png?theme=dark" style=
+"border-radius: 5px;" width="208" height="58" alt="profile for @chupper100 at Stack Overflow." title="profile for chup at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 
