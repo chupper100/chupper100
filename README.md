@@ -1,4 +1,4 @@
-# [![I am Chupper](https://readme-typing-svg.herokuapp.com/?lines=I+am+Chupper)](#)
+# [![I am Chupper](https://readme-typing-svg.herokuapp.com/?color=%2358A6FF&lines=I+am+Chupper)](#)
 
 [GitHub](https://github.com/chupper100) <br/>
 [Github Organization](https://github.com/Chupper-Studio)
