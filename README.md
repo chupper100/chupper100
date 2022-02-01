@@ -11,6 +11,7 @@
 
 ## [Stack Overflow Activity](https://stackoverflow.com/users/15875691)
 <!-- STACKOVERFLOW:START -->
+- [Is this a right code to disable MathJax right-clicking menu?](https://stackoverflow.com/questions/70706179/is-this-a-right-code-to-disable-mathjax-right-clicking-menu)
 - [How to get keys from multiple values?](https://stackoverflow.com/questions/68710915/how-to-get-keys-from-multiple-values)
 <!-- STACKOVERFLOW:END -->
 
