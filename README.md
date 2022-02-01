@@ -5,8 +5,8 @@
 
 ## [Blogs](https://blogcuadat08.blogspot.com)
 <!-- BLOG-POST-LIST:START -->
+- [Hướng dẫn đăng ký tên miền miễn phí](https://blogcuadat08.blogspot.com/2022/01/huong-dan-ang-ky-ten-mien-mien-phi.html)
 - [Giới thiệu Freenom - Nền Tảng Cung Cấp Tên Miền Miễn Phí](https://blogcuadat08.blogspot.com/2021/11/freenom-nen-tang-cung-cap-ten-mien-mien.html)
-- [Bài Kiểm Tra Trình Độ Anh Ngữ EF SET](https://blogcuadat08.blogspot.com/2021/09/bai-kiem-tra-trinh-do-anh-ngu-ef-set.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [Stack Overflow Activity](https://stackoverflow.com/users/15875691)
