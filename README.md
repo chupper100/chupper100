@@ -14,7 +14,6 @@
 
 ## [Hướng Dẫn](https://huong-dan.github.io/)
 <!-- HUONG_DAN_BLOG-POST-LIST:START -->
-- [Welcome to Jekyll!](https://huong-dan.github.io/jekyll/update/2022/03/10/welcome-to-jekyll.html)
 - [Rút Gọn URL Miễn Phí Với Cloudflare Workers](https://huong-dan.github.io/cloudflare/workers/2022/02/01/url-shortener-with-cloudflare-workers.html)
 <!-- HUONG_DAN_BLOG-POST-LIST:END -->
 
