@@ -12,6 +12,10 @@
 - [Giới thiệu](https://blogcuadat08.blogspot.com/2021/09/ve-ban-than-chao-cac-ban-nhung-nguoi.html)
 <!-- BLOG-POST-LIST:END -->
 
+## [Hướng Dẫn](https://huong-dan.github.io/)
+<!-- HUONG_DAN_BLOG-POST-LIST:START -->
+<!-- HUONG_DAN_BLOG-POST-LIST:END -->
+
 ## [Stack Overflow Activity](https://stackoverflow.com/users/15875691)
 <!-- STACKOVERFLOW:START -->
 - [Is this a right code to disable MathJax right-clicking menu?](https://stackoverflow.com/questions/70706179/is-this-a-right-code-to-disable-mathjax-right-clicking-menu)
