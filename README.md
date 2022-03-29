@@ -1,8 +1,5 @@
 # [![I am Chupper](https://readme-typing-svg.herokuapp.com/?color=%2358A6FF&lines=I+am+Chupper)](#)
 
-[GitHub](https://github.com/chupper100) <br/>
-[Github Organization](https://github.com/Chupper-Studio)
-
 ## [Blogs](https://blogcuadat08.blogspot.com)
 <!-- BLOG-POST-LIST:START -->
 - [Hướng dẫn đăng ký tên miền miễn phí](https://blogcuadat08.blogspot.com/2022/01/huong-dan-ang-ky-ten-mien-mien-phi.html)
