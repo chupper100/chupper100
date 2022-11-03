@@ -1,4 +1,4 @@
-# [![I am Chupper](https://readme-typing-svg.herokuapp.com/?color=%2358A6FF&lines=I+am+Chupper)](#)
+# [![I am alfie](https://readme-typing-svg.herokuapp.com/?color=%2358A6FF&lines=I+am+alfie)](#)
 
 ## [Blogs](https://blogcuadat08.blogspot.com)
 <!-- BLOG-POST-LIST:START -->
